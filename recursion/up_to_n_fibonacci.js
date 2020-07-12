@@ -1,4 +1,7 @@
 //print all fibaonacci series up to n
+//print the sum of fibonacci series with given n 
+//check if the value is with in fibonacci
+
 let item = 10;
 let temp=[];
 function fibonacci(n) {
